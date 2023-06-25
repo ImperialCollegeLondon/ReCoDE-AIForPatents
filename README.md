@@ -8,7 +8,7 @@
 
 There were 188,600 European patent applications made in 2021 (direct European applications and international (PCT) applications that entered the European phase). 
 
-The European Patent Office (EPO)_ has shown that there is interest from several governmental agencies in trends associated with the filings of patents to specific areas such as ‘Green Plastics’.
+The European Patent Office (EPO) has shown that there is interest from several governmental agencies in trends associated with the filings of patents to specific areas such as ‘Green Plastics’.
 
 Hence, there is a need for quick and robust methods of accurately classifying the plethora of patents being submitted to the EPO to highlight any trends in ‘Green Plastics’ filings, or filings in any other areas of interest (e.g., renewable energies, artificial intelligence, augmented reality, drug discovery etc.)
 
