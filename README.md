@@ -1,18 +1,18 @@
 <!-- Your Project title, make it sound catchy! -->
 
-# Project title
+# Classification of Text according to the Cooperative Patent Classification System using natural language processing algorithms
 
 <!-- Provide a short description to your project -->
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae pulvinar
-mauris. Praesent sollicitudin rutrum mauris sed congue. Donec vel orci elit.
-Phasellus luctus sodales elementum. Donec lacinia semper lorem, volutpat
-molestie arcu bibendum mollis. Nulla nec massa vitae sapien varius vulputate
-vel vitae ex. Curabitur convallis iaculis elit at faucibus. Sed eget facilisis
-orci, ut consequat neque.
+There were 188,600 European patent applications made in 2021 (direct European applications and international (PCT) applications that entered the European phase). 
 
+The European Patent Office (EPO)_ has shown that there is interest from several governmental agencies in trends associated with the filings of patents to specific areas such as ‘Green Plastics’.
+
+Hence, there is a need for quick and robust methods of accurately classifying the plethora of patents being submitted to the EPO to highlight any trends in ‘Green Plastics’ filings, or filings in any other areas of interest (e.g., renewable energies, artificial intelligence, augmented reality, drug discovery etc.)
+
+By employing artificial intelligence, in the form of machine learning, the cost, and likelihood of misclassification of patents, in any technical area, can be significantly reduced, while speeding up the process.
 <!-- What should the students going through your exemplar learn -->
 
 ## Learning Outcomes
