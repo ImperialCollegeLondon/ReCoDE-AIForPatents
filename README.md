@@ -57,6 +57,11 @@ Here are some examples:
 - Paraview
 -->
 
+- Basic Math (matrices, averages)
+- Programming skills (python, pandas, numpy, tensorflow)
+- Machine learning theory (at level of intro to machine learning course)
+
+
 ### System
 
 <!-- Instructions on how the student should start going through the exemplar.
