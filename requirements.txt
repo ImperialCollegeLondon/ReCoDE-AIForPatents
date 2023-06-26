@@ -7,4 +7,4 @@ numpy
 tensorflow
 tensorflow_hub
 sklearn
-pytorch
+torch
