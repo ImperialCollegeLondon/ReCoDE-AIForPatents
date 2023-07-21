@@ -17,14 +17,52 @@ By employing artificial intelligence, in the form of machine learning, the cost,
 
 ## Learning Outcomes
 
+### What you'll learn from each Notebook:
+
+#### Introduction
+
+- Why we need to classify patents.
+- What is Tensorflow?
+- Loading datasets into your workspace.
+- What Tokenisation, Vectorisation and Word Embeddings are in the context of NLP.
+- Methods to analyse and understand a dataset.
+- Training a model using the Term-Frequency - Inverse Document Frequency (TF-IDF) vectorisation technique with a Multinomial Bayes algorithm.
+
+#### Multi-Layer Perceptron
+
+- What a MultiLayer Perceptron is, and how they can be used for text classification.
+- How to train a Multilayer Perceptron using Tensorflow's Keras.
+- Making predictions using a Multilayer Perceptron.
+- What are hyperparameters and how do they affect the training and performance of machine learning models.
+- Optimise a model's training pipeline using Callbacks
+- Visualise a model and plotting training loss curves.
+- Visualising the structure of a compiled model.
+- Evaluating the performance of a MultiLayer Perceptron.
+
+#### Long Short Term Memory Networks (LSTMs)
+
+- What a LSTM is, and how they can be used for text classification.
+- How to train a LSTM using Tensorflow's Keras.
+- Evaluating the performance of the LSTM.
+
+#### One-Dimensional Convolutional Neural Networks (1D-CNN)
+
+- What a 1D-CNN is, and how they can be used for text classification.
+- How to train a 1D-CNN using Tensorflow's Keras.
+- Evaluating the performance of the 1D-CNN.
+
+#### Transformers
+
+- What a Transformer is, and how they can be used for text classification.
+- How to train a Transformer using Tensorflow's Keras and Object Oriented Programming.
+- Evaluating the performance of the Transformer.
 
 | Task       | Time    |
 | ---------- | ------- |
-| Reading    | 15 hours |
-| Practising | 15 hours |
+| Reading    | 20 hours |
+| Practising | 20 hours |
 
 ## Requirements
-
 
 It would help a lot if you went through the following Graduate School courses before going through this exemplar:
 
@@ -41,21 +79,17 @@ Plotting in Python with Matplotlib:
 https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/
 
 
-
-
 ### Academic
 
 
 - Access to Google Colaboratory
-
-
 - Basic Math (matrices, averages)
 - Programming skills (python, pandas, numpy, tensorflow)
 - Machine learning theory (at level of intro to machine learning course)
 
-### System
+<!--### System
 
-<!-- Instructions on how the student should start going through the exemplar.
+Instructions on how the student should start going through the exemplar.
 
 Structure this section as you see fit but try to be clear, concise and accurate
 when writing your instructions.
@@ -104,9 +138,6 @@ in a tree node.
 ├── main
 └── test
 ```
-
-<!-- Change this to your License. Make sure you have added the file on GitHub -->
-
 ## License
 
 This project is licensed under the [BSD-3-Clause license](LICENSE.md)
