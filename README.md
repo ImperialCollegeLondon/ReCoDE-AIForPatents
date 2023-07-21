@@ -17,50 +17,40 @@ By employing artificial intelligence, in the form of machine learning, the cost,
 
 ## Learning Outcomes
 
-- Skill 1
-- Skill 2
-- Skill 3
-
-<!-- How long should they spend reading and practising using your Code.
-Provide your best estimate -->
 
 | Task       | Time    |
 | ---------- | ------- |
-| Reading    | 3 hours |
-| Practising | 3 hours |
+| Reading    | 15 hours |
+| Practising | 15 hours |
 
 ## Requirements
 
 <!--
-If your exemplar requires students to have a background knowledge of something
-especially this is the place to mention that.
+It would help a lot if you went through the following Graduate School courses before going through this exemplar:
 
-List any resources you would recommend to get the students started.
+Data Exploration and Visualisation:
+https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/
 
-If there is an existing exemplar in the ReCoDE repositories link to that.
+Data Processing with Python Pandas
+https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-processing-python-pandas/
+
+Plotting in Python with Matplotlib:
+https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/
+
+For the Data Storage/Versioning:
+Introduction to using Git and GitHub for Software Development
+![image](https://github.com/ImperialCollegeLondon/AIForPatents/assets/109655670/bf3cf950-c2f3-4eb9-b0fb-ecf1b8a1f199)
 -->
 
 ### Academic
 
-<!-- List the system requirements and how to obtain them, that can be as simple
-as adding a hyperlink to as detailed as writting step-by-step instructions.
-How detailed the instructions should be will vary on a case-by-case basis.
-
-Here are some examples:
-
-- 50 GB of disk space to hold Dataset X
-- Anaconda
-- Python 3.11 or newer
-- Access to the HPC
-- PETSc v3.16
-- gfortran compiler
-- Paraview
+<!-- 
+- Access to Google Colaboratory
 -->
 
 - Basic Math (matrices, averages)
 - Programming skills (python, pandas, numpy, tensorflow)
 - Machine learning theory (at level of intro to machine learning course)
-
 
 ### System
 
