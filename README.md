@@ -6,14 +6,19 @@
 
 ## Description
 
-There were 188,600 European patent applications made in 2021 (direct European applications and international (PCT) applications that entered the European phase). 
+There were 193,460 European patent applications filed at the European Patent Office in 2022.
 
-The European Patent Office (EPO) has shown that there is interest from several governmental agencies in trends associated with the filings of patents to specific areas such as ‘Green Plastics’.
+The EPO, and several other agencies are really interested in trends associated with the filings of patents to specific areas such as ‘Green Plastics’ (e.g., plastics that can be recycled, or that are made from biodegradable materials).
 
-Hence, there is a need for quick and robust methods of accurately classifying the plethora of patents being submitted to the EPO to highlight any trends in ‘Green Plastics’ filings, or filings in any other areas of interest (e.g., renewable energies, artificial intelligence, augmented reality, drug discovery etc.)
+Typically, to identify whether a patent is related to a certain topic or not, a person would have to manually read through a patent application and assign classification labels to it based on their opinions. Patent applications can be hunderds of pages long, and with the sheer amount of applications that the EPO receive annually, it's easy to see why patent classification is a tedious task!
 
-By employing artificial intelligence, in the form of machine learning, the cost, and likelihood of misclassification of patents, in any technical area, can be significantly reduced, while speeding up the process.
-<!-- What should the students going through your exemplar learn -->
+Hence, there is a need for quick and robust methods of accurately classifying the plethora of patents being submitted to the EPO to highlight any trends in ‘Green Plastics’ filings, or filings in any other areas of interest (e.g., renewable energies, artificial intelligence, augmented reality, drug discovery)
+
+By employing machine learning, in the form of Natural Language Processing algorithms, the cost, and likelihood of misclassification of patents, in any technical area, can be significantly reduced, while speeding up the process.
+
+To address the challenge of classifying patents, the EPO held its first ever [Codefest](https://www.epo.org/news-events/in-focus/codefest.html), where it challenged entrants to develop creative and reliable artificial intelligence (AI) models for automating the identification of patents related to green plastics.
+
+To enable contestants to develop their models, the EPO provided access to its [extensive dataset](https://www.epo.org/searching-for-patents/data/bulk-data-sets.html) of patents and patent classifications. From this, we created a  smaller, binary classification dataset, with half of the entries being related to patents, and the other half being related to other patent areas.
 
 ## Learning Outcomes
 
