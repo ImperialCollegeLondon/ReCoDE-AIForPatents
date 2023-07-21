@@ -29,17 +29,18 @@ By employing artificial intelligence, in the form of machine learning, the cost,
 It would help a lot if you went through the following Graduate School courses before going through this exemplar:
 
 Data Exploration and Visualisation:
+
 https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/
 
-Data Processing with Python Pandas
+Data Processing with Python Pandas:
+
 https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-processing-python-pandas/
 
 Plotting in Python with Matplotlib:
+
 https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/
 
-For the Data Storage/Versioning:
-Introduction to using Git and GitHub for Software Development
-![image](https://github.com/ImperialCollegeLondon/AIForPatents/assets/109655670/bf3cf950-c2f3-4eb9-b0fb-ecf1b8a1f199)
+
 
 
 ### Academic
