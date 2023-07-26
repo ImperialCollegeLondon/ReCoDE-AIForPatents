@@ -112,7 +112,7 @@ Just open up the 'Introduction_and_Data_Handling' notebook and click on the blue
 ├── Notebooks
 |   ├── PatentClassification_Introduction_and_Data_Handling.ipynb
 |   ├── PatentClassification_MultiLayer_Perceptron_Classification.ipynb
-|   ├── PatentClassification_LSTM_Classification.ipynb
+|   ├── PatentClassification_Covolutional_1D_Network_Classification.ipynb
 |   ├── PatentClassification_LSTM_Classification.ipynb
 |   ├── PatentClassification_Transformer_Classification.ipynb
 ```
