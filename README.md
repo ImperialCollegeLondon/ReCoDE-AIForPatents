@@ -54,12 +54,15 @@ To enable contestants to develop their models, the EPO provided access to its [e
 
 - What a 1D-CNN is, and how they can be used for text classification.
 - How to train a 1D-CNN using Tensorflow's Keras.
+- What a pooling layer is?
 - Evaluating the performance of the 1D-CNN.
 
 #### Transformers (Complete after Intro, Multi-Layer Perceptron and LSTM Notebooks)
 
 - What a Transformer is, and how they can be used for text classification.
 - How to train a Transformer using Tensorflow's Keras and Object Oriented Programming.
+- What is attention?
+- What is a softmax layer?
 - Evaluating the performance of the Transformer.
 
 | Task       | Time    |
@@ -109,11 +112,11 @@ Just open up the 'Introduction_and_Data_Handling' notebook and click on the blue
 |   ├── GreenPatents_Dataset.csv
 |   ├── NotGreenPatents_Dataset.csv
 ├── src
-|   ├── 
-|   ├──
-|   ├── 
-|   ├──
-|   ├── 
+|   ├── PatentClassification_Introduction_and_Data_Handling.ipynb
+|   ├── PatentClassification_MultiLayer_Perceptron_Classification.ipynb
+|   ├── PatentClassification_LSTM_Classification.ipynb
+|   ├── PatentClassification_LSTM_Classification.ipynb
+|   ├── PatentClassification_Transformer_Classification.ipynb
 ```
 ## License
 
