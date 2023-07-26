@@ -2,8 +2,6 @@
 
 # Classification of Text according to the Cooperative Patent Classification System using natural language processing algorithms
 
-Classing pate
-
 ## Description
 
 There were 193,460 European patent applications filed at the European Patent Office in 2022.
@@ -108,10 +106,10 @@ Just open up the 'Introduction_and_Data_Handling' notebook and click on the blue
 ## Project Structure
 
 ```log
-├── src
+├── Datasets
 |   ├── GreenPatents_Dataset.csv
 |   ├── NotGreenPatents_Dataset.csv
-├── src
+├── Notebooks
 |   ├── PatentClassification_Introduction_and_Data_Handling.ipynb
 |   ├── PatentClassification_MultiLayer_Perceptron_Classification.ipynb
 |   ├── PatentClassification_LSTM_Classification.ipynb
