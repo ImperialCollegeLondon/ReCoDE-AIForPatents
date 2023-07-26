@@ -2,7 +2,7 @@
 
 # Classification of Text according to the Cooperative Patent Classification System using natural language processing algorithms
 
-<!-- Provide a short description to your project -->
+Classing pate
 
 ## Description
 
@@ -24,7 +24,7 @@ To enable contestants to develop their models, the EPO provided access to its [e
 
 ### What you'll learn from each Notebook:
 
-#### Introduction
+#### Introduction (Start with this)
 
 - Why we need to classify patents.
 - What is Tensorflow?
@@ -33,7 +33,7 @@ To enable contestants to develop their models, the EPO provided access to its [e
 - Methods to analyse and understand a dataset.
 - Training a model using the Term-Frequency - Inverse Document Frequency (TF-IDF) vectorisation technique with a Multinomial Bayes algorithm.
 
-#### Multi-Layer Perceptron
+#### Multi-Layer Perceptron (Complete this after the Introduction Notebook)
 
 - What a MultiLayer Perceptron is, and how they can be used for text classification.
 - How to train a Multilayer Perceptron using Tensorflow's Keras.
@@ -44,19 +44,19 @@ To enable contestants to develop their models, the EPO provided access to its [e
 - Visualising the structure of a compiled model.
 - Evaluating the performance of a MultiLayer Perceptron.
 
-#### Long Short Term Memory Networks (LSTMs)
+#### Long Short Term Memory Networks (LSTMs) (Complete after Intro and Multi-Layer Perceptron Notebooks)
 
 - What a LSTM is, and how they can be used for text classification.
 - How to train a LSTM using Tensorflow's Keras.
 - Evaluating the performance of the LSTM.
 
-#### One-Dimensional Convolutional Neural Networks (1D-CNN)
+#### One-Dimensional Convolutional Neural Networks (1D-CNN) (Complete after Intro and Multi-Layer Perceptron Notebooks)
 
 - What a 1D-CNN is, and how they can be used for text classification.
 - How to train a 1D-CNN using Tensorflow's Keras.
 - Evaluating the performance of the 1D-CNN.
 
-#### Transformers
+#### Transformers (Complete after Intro, Multi-Layer Perceptron and LSTM Notebooks)
 
 - What a Transformer is, and how they can be used for text classification.
 - How to train a Transformer using Tensorflow's Keras and Object Oriented Programming.
@@ -64,7 +64,7 @@ To enable contestants to develop their models, the EPO provided access to its [e
 
 | Task       | Time    |
 | ---------- | ------- |
-| Reading    | 20 hours |
+| Reading    | 25 hours |
 | Practising | 20 hours |
 
 ## Requirements
@@ -83,65 +83,37 @@ Plotting in Python with Matplotlib:
 
 https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/
 
+Introduction to Machine Learning:
+
+https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-machine-learning/
+
+Mathematics for Machine Learning Specialisation (Coursera):
+
+https://www.coursera.org/specializations/mathematics-machine-learning
 
 ### Academic
-
 
 - Access to Google Colaboratory
 - Basic Math (matrices, averages)
 - Programming skills (python, pandas, numpy, tensorflow)
 - Machine learning theory (at level of intro to machine learning course)
 
-<!--### System
-
-Instructions on how the student should start going through the exemplar.
-
-Structure this section as you see fit but try to be clear, concise and accurate
-when writing your instructions.
-
-For example:
-Start by watching the introduction video,
-then study Jupyter notebooks 1-3 in the `intro` folder
-and attempt to complete exercise 1a and 1b.
-
-Once done, start going through through the PDF in the `main` folder.
-By the end of it you should be able to solve exercises 2 to 4.
-
-A final exercise can be found in the `final` folder.
-
-Solutions to the above can be found in `solutions`.
--->
-
 ## Getting Started
 
-<!-- An overview of the files and folder in the exemplar.
-Not all files and directories need to be listed, just the important
-sections of your project, like the learning material, the code, the tests, etc.
-
-A good starting point is using the command `tree` in a terminal(Unix),
-copying its output and then removing the unimportant parts.
-
-You can use ellipsis (...) to suggest that there are more files or folders
-in a tree node.
-
--->
+Just open up the 'Introduction_and_Data_Handling' notebook and click on the blue 'Open in Colab' button to get started.
 
 ## Project Structure
 
 ```log
-.
-├── examples
-│   ├── ex1
-│   └── ex2
 ├── src
-|   ├── file1.py
-|   ├── file2.cpp
-|   ├── ...
-│   └── data
-├── app
-├── docs
-├── main
-└── test
+|   ├── GreenPatents_Dataset.csv
+|   ├── NotGreenPatents_Dataset.csv
+├── src
+|   ├── 
+|   ├──
+|   ├── 
+|   ├──
+|   ├── 
 ```
 ## License
 
