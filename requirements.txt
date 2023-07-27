@@ -7,5 +7,5 @@ pandas
 numpy
 tensorflow
 tensorflow_hub
-sklearn
+scikit-learn
 torch
