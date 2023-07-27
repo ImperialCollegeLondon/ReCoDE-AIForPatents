@@ -16,7 +16,7 @@ By employing machine learning, in the form of Natural Language Processing algori
 
 To address the challenge of classifying patents, the EPO held its first ever [Codefest](https://www.epo.org/news-events/in-focus/codefest.html), where it challenged entrants to develop creative and reliable artificial intelligence (AI) models for automating the identification of patents related to green plastics.
 
-To enable contestants to develop their models, the EPO provided access to its [extensive dataset](https://www.epo.org/searching-for-patents/data/bulk-data-sets.html) of patents and patent classifications. From this, we created a  smaller, binary classification dataset, with half of the entries being related to patents, and the other half being related to other patent areas.
+To enable contestants to develop their models, the EPO provided access to its [extensive dataset](https://www.epo.org/searching-for-patents/data/bulk-data-sets.html) of patents and patent classifications. From this, we created a  smaller, binary classification dataset, with half of the entries being related to 'Green Plastics' patents, and the other half being related to other patent areas.
 
 ## Learning Outcomes
 
