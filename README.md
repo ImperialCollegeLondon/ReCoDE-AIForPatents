@@ -1,6 +1,6 @@
 <!-- Your Project title, make it sound catchy! -->
 
-# Classification of Text according to the Cooperative Patent Classification System using natural language processing algorithms
+# Binary Classification of Patent Text Using Natural Language Processing 
 
 
 ![alt text](https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents/blob/main/docs/assets/ReCode%20Picture%20-%20Binary%20Classification%20Image.PNG)
