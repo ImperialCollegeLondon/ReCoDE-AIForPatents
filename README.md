@@ -103,11 +103,11 @@ Just open up the 'Introduction_and_Data_Handling' notebook and click on the blue
 |   ├── GreenPatents_Dataset.csv
 |   ├── NotGreenPatents_Dataset.csv
 ├── docs
-|   ├── PatentClassification_Introduction_and_Data_Handling.ipynb
-|   ├── PatentClassification_MultiLayer_Perceptron_Classification.ipynb
-|   ├── PatentClassification_Covolutional_1D_Network_Classification.ipynb
-|   ├── PatentClassification_LSTM_Classification.ipynb
-|   ├── PatentClassification_Transformer_Classification.ipynb
+|   ├── 1_Introduction_and_Data_Handling.ipynb
+|   ├── 2_Multilayer_Perceptron_Classification.ipynb
+|   ├── 3_LSTM_Classification.ipynb
+|   ├── 4_Transfomer_Classification.ipynb
+|   ├── 5_Convolutional_1D_Network_Classification.ipynb
 ```
 ## License
 
