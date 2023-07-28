@@ -2,6 +2,9 @@
 
 # Classification of Text according to the Cooperative Patent Classification System using natural language processing algorithms
 
+
+![alt text](https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents/blob/main/docs/assets/ReCode%20Picture%20-%20Binary%20Classification%20Image.PNG)
+
 ## Description
 
 There were 193,460 European patent applications filed at the European Patent Office in 2022.
