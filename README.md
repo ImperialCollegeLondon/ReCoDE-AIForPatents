@@ -112,7 +112,7 @@ Just open up the 'Introduction_and_Data_Handling' notebook and click on the blue
 ├── Datasets
 |   ├── GreenPatents_Dataset.csv
 |   ├── NotGreenPatents_Dataset.csv
-├── Notebooks
+├── docs
 |   ├── PatentClassification_Introduction_and_Data_Handling.ipynb
 |   ├── PatentClassification_MultiLayer_Perceptron_Classification.ipynb
 |   ├── PatentClassification_Covolutional_1D_Network_Classification.ipynb
