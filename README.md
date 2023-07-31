@@ -2,8 +2,7 @@
 
 # Binary Classification of Patent Text Using Natural Language Processing 
 
-
-![alt text](https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents/blob/main/docs/assets/ReCode%20Picture%20-%20Binary%20Classification%20Image.PNG)
+![alt text](https://raw.githubusercontent.com/ImperialCollegeLondon/ReCoDE-AIForPatents/main/docs/assets/ReCode%20Picture%20-%20Binary%20Classification%20Image.PNG)
 
 ## Description
 
