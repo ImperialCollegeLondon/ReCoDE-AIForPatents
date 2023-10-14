@@ -74,13 +74,13 @@ To enable contestants to develop their models, the EPO provided access to its [e
 
 It would help a lot if you went through the following Graduate School courses before going through this exemplar:
 
-[Data Exploration and Visualisation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/)
+[Data Exploration and Visualisation](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/data-exploration-visualisation/)
 
-[Data Processing with Python Pandas](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-processing-python-pandas/)
+[Data Processing with Python Pandas](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/data-processing-python-pandas/)
 
-[Plotting in Python with Matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
+[Plotting in Python with Matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
 
-[Introduction to Machine Learning](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-machine-learning/)
+[Introduction to Machine Learning](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/introduction-to-machine-learning/)
 
 [Mathematics for Machine Learning Specialisation (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
